@@ -1,0 +1,2 @@
+git commit --amend --reset-author --no-edit --date "Wed Feb 16 14:00 2011 +0100"
+git push --force
